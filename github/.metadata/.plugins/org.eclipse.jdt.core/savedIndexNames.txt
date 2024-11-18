@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+F:\github bueno\githubentronos\github\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2879870711.index
+3701440259.index
