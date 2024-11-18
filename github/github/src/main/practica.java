@@ -16,9 +16,12 @@ public static void main(String[] args) {
 		    System.out.println("El resultado de la suma es " + resultadoSuma );
 		
 			// User 2 fer la resta dels elements de subArray
-			
-			daqdad
-			
+			int resultadoResta = subArray[0];
+			for (int i = 1; i < subArray.length; i++){
+				resultadoResta -= subArray[i];
+			}
+			System.out.println("El resultado de la resta es " + resultadoResta);
+
 			// User 3 fer la multiplicació dels elements de prodArray
 		}
 
