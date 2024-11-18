@@ -22,6 +22,7 @@ public static void main(String[] args) {
 			
 			
 			// User 3 fer la multiplicació dels elements de prodArray
+			fsdafsdfdafsa
 		}
 
 	}
