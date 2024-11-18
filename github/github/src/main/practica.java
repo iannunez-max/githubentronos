@@ -10,16 +10,14 @@ public static void main(String[] args) {
 			
 			// User 1 fer la suma dels elements de sumArray
 			int resultadoSuma = 0;
-		for (int numero : sumArray) {
+		    for (int numero : sumArray) {
 			resultadoSuma += numero;
-		}
-		System.out.println("ResultadoSuma" + resultadoSuma );
+		    }
+		    System.out.println("El resultado de la suma es " + resultadoSuma );
 		
-			
-			
 			// User 2 fer la resta dels elements de subArray
 			
-			
+			daqdad
 			
 			// User 3 fer la multiplicació dels elements de prodArray
 		}
