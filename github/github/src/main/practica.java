@@ -22,7 +22,11 @@ public static void main(String[] args) {
 			
 			
 			// User 3 fer la multiplicació dels elements de prodArray
-			fsdafsdfdafsa
+			int resultadoMultiplicacion =1;
+			for (int numero : prodArray) {
+				resultadoMultiplicacion *= numero;
+			}
+			System.out.println("Resultado Multiplicacion" + resultadoMultiplicacion);
 		}
 
 	}
